@@ -1,0 +1,2 @@
+comunidadASR 1 161 localhost
+comunidadASRL 1 161 10.0.0.15
