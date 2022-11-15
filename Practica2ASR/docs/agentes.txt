@@ -1,0 +1,2 @@
+comunidadASRL 1 161 localhost
+comunidadLuisASR 1 161 192.168.158.172
