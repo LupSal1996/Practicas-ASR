@@ -1,0 +1,28 @@
+https://www.rfc-editor.org/rfc/rfc2790.html
+http://mibdepot.com/cgi-bin/vendor_index.cgi?r=hp
+https://oidref.com/1.3.6.1.3.79.2.2.1.1.3.1.2
+https://oidref.com/1.3.6.1.3.79.2
+https://www.rfc-editor.org/rfc/rfc2865#page-30
+https://www.rfc-editor.org/rfc/rfc2620
+https://www.rfc-editor.org/rfc/rfc1156#page-9
+
+
+#Acct-Input-Packets',
+        '47: '+info[8],
+        '#Acct-Output-Packets'
+        '48: '+info[9],
+
+
+'1.3.6.1.2.1.67.2.2.1.1.3.1.5.1','1.3.6.1.2.1.67.2.2.1.1.3.1.6.1'
+
+
+Paquetes multicast que ha enviado la interfaz de la interfaz de red de un agente 1.3.6.1.2.1.2.2.1.12.a
+
+Paquetes IP que los protocolos locales (incluyendo ICMP) suministraron a IP en las solicitudes de transmisión. 1.3.6.1.2.1.4.10.0
+
+Mensajes ICMP que ha recibido el agente. 1.3.6.1.2.1.5.1.0
+
+Segmentos retransmitidos; es decir, el número de segmentos TCP transmitidos 
+que contienen uno o más octetos transmitidos previamente    1.3.6.1.2.1.6.12.0
+
+Datagramas enviados por el dispositivo   1.3.6.1.2.1.7.4
